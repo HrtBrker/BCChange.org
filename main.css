@@ -25,7 +25,7 @@ nav {
     height: 100px; /* Adjusted height for the navbar */
     display: flex;
     align-items: center; /* Vertically align items */
-    padding: 0 40px; /* Add padding for some horizontal spacing */
+    padding: 0 40px; /* Added padding for some horizontal spacing */
 }
 
 /* Logo styling */
@@ -35,7 +35,7 @@ nav {
 
 .navbar img {
     max-height: 100%; /* Prevent overflow of the logo */
-    height: 80px; /* Set a suitable height for the logo */
+    height: 80px; /* Setting a suitable height for the logo */
     width: auto; /* Maintain aspect ratio of the logo */
 }
 
@@ -353,7 +353,7 @@ footer {
     right: 30px; /* Adjusted right position for more space */
     z-index: 2; /* Ensure the text appears above the image and filter */
     color: white; /* Change this to the desired text color */
-    filter: none; /* Ensure the text isn't affected by the brightness filter */
+    filter: none; /* text isn't affected by the brightness filter */
     padding: 10px 15px; /* Add padding around the text */
     font-size: 4em; /* Increase font size for better visibility */
 }
@@ -437,9 +437,9 @@ footer {
 
 .hero-content {
     position: absolute; /* Allows positioning relative to the hero section */
-    top: 20px; /* Adjust this value to move the text down from the top */
-    right: 20px; /* Adjust this value to move the text in from the left */
-    color: white; /* Change text color for better visibility against the background */
+    top: 20px; /* Adjusted this value to move the text down from the top */
+    right: 20px; /* Adjusted this value to move the text in from the left */
+    color: white; /* Changed text color for better visibility against the background */
     z-index: 1; /
 }
 
@@ -463,7 +463,7 @@ footer {
 /* Programs Section */
 
 main {
-    padding: 20px; /* Adds padding around the main content */
+    padding: 20px; /* Added padding around the main content */
 }
 
 /* Programs Section */
@@ -471,7 +471,7 @@ main {
     display: flex;
     justify-content: space-between;
     margin-top: 40px;
-    padding: 0 20px; /* Adds padding to the left and right */
+    padding: 0 20px; /* Added padding to the left and right */
 
     
 }
@@ -481,7 +481,7 @@ main {
     justify-content: space-between;
     position: relative;
     margin-top: 40px;
-    width: 100%; /* Adds a max width for a better look on large screens */
+    width: 100%; /* Added a max width for a better look on large screens */
     gap: 20px;
 }
 
@@ -493,7 +493,7 @@ main {
     width: 100%;
     height: 200px;
     object-fit: cover;
-    border-radius: 10px; /* Set rounded corners for images */
+    border-radius: 10px; /* rounded corners for images */
     transition: transform 0.3s ease-in-out;
 }
 
@@ -669,9 +669,9 @@ main{
 
 .hero-content {
     position: absolute; /* Allows positioning relative to the hero section */
-    top: 20px; /* Adjust this value to move the text down from the top */
-    right: 20px; /* Adjust this value to move the text in from the left */
-    color: white; /* Change text color for better visibility against the background */
+    top: 20px; /* Adjusted this value to move the text down from the top */
+    right: 20px; /* Adjusted this value to move the text in from the left */
+    color: white; /* Changed text color for better visibility against the background */
     z-index: 1; /
 }
 
@@ -849,9 +849,9 @@ main {
 
 .hero-content-blogs {
     position: absolute; /* Allows positioning relative to the hero section */
-    top: 20px; /* Adjust this value to move the text down from the top */
-    left: 20px; /* Adjust this value to move the text in from the left */
-    color: white; /* Change text color for better visibility against the background */
+    top: 20px; /* Adjusted this value to move the text down from the top */
+    left: 20px; /* Adjusted this value to move the text in from the left */
+    color: white; /* Changed text color for better visibility against the background */
     z-index: 1; /
 }
 
@@ -874,9 +874,9 @@ main {
 
 .overlay {
     position: absolute;
-    bottom: 5px; /* Position the overlay text */
+    bottom: 5px; /* Positioned the overlay text */
     right: 70px;
-    opacity: 0; /* Start hidden */
+    opacity: 0; 
     transition: opacity 0.3s ease; /* Smooth transition for visibility */
     color: orange; 
 }
@@ -1022,13 +1022,13 @@ main {
 /*////////////////////////////////////////HOMEPAGE STUFF///////////////////////////////////////////////*/ 
 
     .main-image-container {
-        width: 100%; /* Make image container take full width */
+        width: 100%; /* Makes image container take full width */
         border-radius: 10px; /* Smaller border radius */
         margin: 20px auto;
     }
 
     .upper-left-text {
-        top: 15px; /* Adjust positioning for smaller screens */
+        top: 15px; /* Adjusted positioning for smaller screens */
         left: 10px;
         font-size: 0.8em; /* Smaller font size */
         max-width: 90%; /* Allow text to take more width */
@@ -1036,7 +1036,7 @@ main {
     }
 
     .upper-left-text h1 {
-        font-size: 0.8em; /* Increase font size for readability */
+        font-size: 0.8em; /* Increased font size for readability */
         padding-top: 10px;
         margin-bottom: 8px;
         position: absolute;
@@ -1079,7 +1079,7 @@ main {
     .contact-text h2 {
         margin-bottom: 50px;
         font-size: 0.7em;
-        display: block; /* Ensure heading and paragraph are displayed */
+        display: block; /* Ensured heading and paragraph are displayed */
         margin: 0;
         padding-left: 10px;
     }
@@ -1187,11 +1187,11 @@ main {
 
    /*////////////////////////////////////////(SERVICES STUFF)/////////////////////////////////// */
    .hero-content-services h1 {
-    font-size: 0.7em; /* Adjust to the desired size */
+    font-size: 0.7em; /* Adjusted to the desired size */
     }
 
     .hero-content-services h2 {
-    font-size: 0.6em; /* Adjust to the desired size */
+    font-size: 0.6em; /* Adjusted to the desired size */
     }
     
 
